@@ -351,9 +351,6 @@ MiniSocial-Smart-Contract/
 │   ├── second-post.png
 │   └── total-posts.png
 │
-├── report/
-│   └── MiniSocial-Technical-Report.pdf
-│
 └── README.md
 ```
 
